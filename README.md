@@ -28,12 +28,12 @@ Fritzing:
 https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/lcd.PNG
 # LedFade
 Description:
-- 
+- in this assignment , just like last year, we simply just have to make an led fade in and out.
 Lessson learned:
--
+-i learned that most of the assignments we did on the arduino last year are kinda the same as circuitpython.
 
 Fritzing:
-
+https://raw.githubusercontent.com/Apaquet37/CircuitPython/master/Media/led_fade_bb.png
 # PhotoInterrupter
 Description:
 - in this assignment i hade to make the serial moniter print how many times the current passing through the interrupter was interrupted
@@ -53,8 +53,6 @@ https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/F
 
 # VS Code
 Description:
-- 
+-  in this assignment i was supposed to run some code on a new application and see if it printed what i wanted it to , to the serial moniter.
 Lessson learned:
--
-
-Fritzing:
+-I learned how to use VS Code and upload code to Git directly from the application (not using GitBash)
