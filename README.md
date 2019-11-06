@@ -8,11 +8,15 @@ Description:
 Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
+Fritzing:
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/servo.PNG
 # Ultrasonic Sensor
 Description:
 - In this assignment, I had to wire up an LED so it would blink in varios colors according to the Ultrasonic Sensor
 Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
+
+Fritzing:
 
 # LcdScreen
 Description:
@@ -20,11 +24,15 @@ Description:
 Lessson learned:
 - One thing I learned was, when you need to use an LcdScreen its eaiser to use the backpack attachment.
 
+Fritzing:
+
 # LedFade
 Description:
 - 
 Lessson learned:
 -
+
+Fritzing:
 
 # PhotoInterrupter
 Description:
@@ -32,14 +40,20 @@ Description:
 Lessson learned:
 - i learned that even if your wiring is wrong and your code is right the interrupter will still get interrupted and print numbers but they wont coordinate with how many times youve interrupted it.
 
+Fritzing:
+
 # RGB Led
 Description:
 - in this assignment i hade to make a class that would work with the coorisponding code and make the RGB Leds blink with the color designated to it.
 Lessson learned:
 - I learned that when creating classes for CircuitPython it is very hard and very tuough to do espesially when u have to go from the finish to the beginning.
 
+Fritzing:
+
 # VS Code
 Description:
 - 
 Lessson learned:
 -
+
+Fritzing:
