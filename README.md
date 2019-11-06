@@ -17,7 +17,7 @@ Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
 Fritzing:
-https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/rgb.PNG
+
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
@@ -49,6 +49,7 @@ Lessson learned:
 - I learned that when creating classes for CircuitPython it is very hard and very tuough to do espesially when u have to go from the finish to the beginning.
 
 Fritzing:
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/rgb.PNG
 
 # VS Code
 Description:
