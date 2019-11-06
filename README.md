@@ -17,7 +17,7 @@ Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
 Fritzing:
-
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/distance_sensor.PNG
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
@@ -25,7 +25,7 @@ Lessson learned:
 - One thing I learned was, when you need to use an LcdScreen its eaiser to use the backpack attachment.
 
 Fritzing:
-
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/lcd.PNG
 # LedFade
 Description:
 - 
@@ -41,7 +41,7 @@ Lessson learned:
 - i learned that even if your wiring is wrong and your code is right the interrupter will still get interrupted and print numbers but they wont coordinate with how many times youve interrupted it.
 
 Fritzing:
-
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/photointerrupter.PNG
 # RGB Led
 Description:
 - in this assignment i hade to make a class that would work with the coorisponding code and make the RGB Leds blink with the color designated to it.
