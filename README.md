@@ -9,7 +9,10 @@ Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
 Fritzing:
-https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/servo.PNG
+![GitHub servo](media/servo.jpg)
+
+
+
 # Ultrasonic Sensor
 Description:
 - In this assignment, I had to wire up an LED so it would blink in varios colors according to the Ultrasonic Sensor
