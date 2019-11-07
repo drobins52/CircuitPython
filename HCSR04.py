@@ -1,9 +1,9 @@
 import time
 import board
 import neopixel
-import adafruit_hcsr04
+import adafruit_hcsr04 # We have to import adafruit_hcsr04 from our lib folder, so this does that everytime the code runs 
 
-pixel_pin = board.NEOPIXEL
+pixel_pin = board.NEOPIXEL 
 num_pixels = 1
 pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.3)
 sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D2, echo_pin=board.D3)
