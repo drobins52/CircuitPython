@@ -9,7 +9,7 @@ Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
 Fritzing:
-![GitHub servo](media/servo.jpg)
+![GitHub Servo_bb](media/Servo_bb.png)
 
 
 
