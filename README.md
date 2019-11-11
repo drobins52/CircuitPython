@@ -26,7 +26,6 @@ Lessson learned:
 Fritzing:
 
 
-https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/lcd.PNG
 
 # LedFade
 Description:
@@ -36,8 +35,6 @@ Lessson learned:
 
 Fritzing:
 
-https://raw.githubusercontent.com/Apaquet37/CircuitPython/master/Media/led_fade_bb.png
-
 # PhotoInterrupter
 Description:
 - in this assignment i hade to make the serial moniter print how many times the current passing through the interrupter was interrupted
@@ -45,9 +42,6 @@ Lessson learned:
 - i learned that even if your wiring is wrong and your code is right the interrupter will still get interrupted and print numbers but they wont coordinate with how many times youve interrupted it.
 
 Fritzing:
-
-https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/photointerrupter.PNG
-
 # RGB Led
 Description:
 - in this assignment i hade to make a class that would work with the coorisponding code and make the RGB Leds blink with the color designated to it.
@@ -56,9 +50,7 @@ Lessson learned:
 
 Fritzing:
 
-[GitHub servo](Media/servo.png)
-
-https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/rgb.PNG
+[GitHub Servo](Media/Servo.png)
 
 
 # VS Code
