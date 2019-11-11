@@ -50,7 +50,7 @@ Lessson learned:
 
 Fritzing:
 
-[GitHub Servo](Media/Servo.png)
+![GitHub Servo](Media/Servo.png)
 
 
 # VS Code
