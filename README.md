@@ -9,7 +9,6 @@ Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
 Fritzing:
-![GitHub servo](Media/servo.png)
 
 # Ultrasonic Sensor
 Description:
@@ -18,7 +17,6 @@ Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
 Fritzing:
-https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/distance_sensor.PNG
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
@@ -26,6 +24,7 @@ Lessson learned:
 - One thing I learned was, when you need to use an LcdScreen its eaiser to use the backpack attachment.
 
 Fritzing:
+
 
 https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/lcd.PNG
 
