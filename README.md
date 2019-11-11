@@ -9,6 +9,7 @@ Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
 Fritzing:
+![GitHub servo](Media/servo.png)
 
 # Ultrasonic Sensor
 Description:
@@ -16,6 +17,8 @@ Description:
 Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
+Fritzing:
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/distance_sensor.PNG
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
@@ -24,13 +27,17 @@ Lessson learned:
 
 Fritzing:
 
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/lcd.PNG
+
 # LedFade
 Description:
-- 
+- in this assignment , just like last year, we simply just have to make an led fade in and out.
 Lessson learned:
--
+-i learned that most of the assignments we did on the arduino last year are kinda the same as circuitpython.
 
 Fritzing:
+
+https://raw.githubusercontent.com/Apaquet37/CircuitPython/master/Media/led_fade_bb.png
 
 # PhotoInterrupter
 Description:
@@ -40,6 +47,8 @@ Lessson learned:
 
 Fritzing:
 
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/photointerrupter.PNG
+
 # RGB Led
 Description:
 - in this assignment i hade to make a class that would work with the coorisponding code and make the RGB Leds blink with the color designated to it.
@@ -47,12 +56,18 @@ Lessson learned:
 - I learned that when creating classes for CircuitPython it is very hard and very tuough to do espesially when u have to go from the finish to the beginning.
 
 Fritzing:
+
 [GitHub servo](Media/servo.png)
+
+https://raw.githubusercontent.com/mkershn16/CircuitPython/master/CircuitPython/Fritzing_Diagrams/rgb.PNG
+
 
 # VS Code
 Description:
-- 
+-  in this assignment i was supposed to run some code on a new application and see if it printed what i wanted it to , to the serial moniter.
 Lessson learned:
 -
 
 Fritzing:
+
+-I learned how to use VS Code and upload code to Git directly from the application (not using GitBash)
