@@ -17,7 +17,10 @@ Description:
 Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
-Fritzing:![GitHub Hcsr04](Media/Hcsr04.png)
+Fritzing:
+![GitHub Hcsr04](Media/Hcsr04.png)
+
+
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
