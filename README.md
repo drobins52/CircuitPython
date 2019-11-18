@@ -8,7 +8,8 @@ Description:
 Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
-Fritzing:
+Fritzing:![GitHub Servo](Media/Servo.png)
+
 
 # Ultrasonic Sensor
 Description:
@@ -16,7 +17,7 @@ Description:
 Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
-Fritzing:
+Fritzing:![GitHub hcsr04](Media/hcsr04.png)
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
@@ -50,7 +51,6 @@ Lessson learned:
 
 Fritzing:
 
-![GitHub Servo](Media/Servo.png)
 
 
 # VS Code
