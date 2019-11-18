@@ -21,6 +21,7 @@ Fritzing:
 ![GitHub Hcsr04](Media/Hcsr04.png)
 
 
+
 # LcdScreen
 Description:
 - in this assignment I had to make an LcdScreen print how many times a button was pushed, add a switch so when u flip it,it could go from 0 and up when the button is pushed or vise-versa.
