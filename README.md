@@ -8,7 +8,8 @@ Description:
 Lessson learned:
 - whilst doing this assignement, one thing i learned is that CircuitPython is going to take getting used too.
 
-Fritzing:![GitHub Servo](Media/Servo.png)
+Fritzing:
+![GitHub Servo](Media/Servo.png)
 
 
 # Ultrasonic Sensor
