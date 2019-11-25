@@ -32,7 +32,6 @@ Lessson learned:
 - One thing I learned was, when you need to use an LcdScreen its eaiser to use the backpack attachment.
 
 Fritzing:
-![GitHub LcdScreen](Media/LcdScreen.png)
 
 
 # LedFade
