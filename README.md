@@ -19,7 +19,8 @@ Lessson learned:
 - One thing i learned was, when using neopixel on CircuitPython, you can make it glow any color just by typing in the set of 3 Numbers that color has.
 
 Fritzing:
-<img src="Media/Hcsr04.png" width="75">
+![GitHub Hcsr04](Media/Hcsr04.png)
+
 
 
 
