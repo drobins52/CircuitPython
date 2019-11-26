@@ -32,6 +32,7 @@ Lessson learned:
 - One thing I learned was, when you need to use an LcdScreen its eaiser to use the backpack attachment.
 
 Fritzing:
+![GitHub LcdScreen](Media/LcdScreen.png)
 
 
 # LedFade
@@ -49,6 +50,7 @@ Lessson learned:
 - i learned that even if your wiring is wrong and your code is right the interrupter will still get interrupted and print numbers but they wont coordinate with how many times youve interrupted it.
 
 Fritzing:
+![GitHub PhotoInterrupter](Media/PhotoInterrupter.png)
 # RGB Led
 Description:
 - in this assignment i hade to make a class that would work with the coorisponding code and make the RGB Leds blink with the color designated to it.
@@ -56,7 +58,7 @@ Lessson learned:
 - I learned that when creating classes for CircuitPython it is very hard and very tuough to do espesially when u have to go from the finish to the beginning.
 
 Fritzing:
-
+![GitHub RGB](Media/RGB.png)
 
 
 # VS Code
