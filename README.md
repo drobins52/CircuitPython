@@ -66,8 +66,4 @@ Fritzing:
 Description:
 -  in this assignment i was supposed to run some code on a new application and see if it printed what i wanted it to , to the serial moniter.
 Lessson learned:
--
-
-Fritzing:
-
--I learned how to use VS Code and upload code to Git directly from the application (not using GitBash)
+-  I learned how to use VS Code and upload code to Git directly from the application (not using GitBash)
