@@ -42,6 +42,7 @@ Lessson learned:
 -i learned that most of the assignments we did on the arduino last year are kinda the same as circuitpython.
 
 Fritzing:
+![GitHub LedFade](Media/LedFade.png)
 
 # PhotoInterrupter
 Description:
